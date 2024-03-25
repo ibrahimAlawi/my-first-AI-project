@@ -1,15 +1,15 @@
-Project Overview:
+#Project Overview:
 
 Embarking on an inaugural venture into the realm of Artificial Intelligence, this project was anchored in the domain of Natural Language Processing (NLP).
 It involved the integration of the Googletrans API, alongside the utilization of Jupyter Notebook and Python as the primary programming tools.
 The primary deliverable was a Windows application designed to facilitate the translation of text across various languages.
 
-Project Objective:
+##Project Objective:
 
 The application’s principal objective was to present a streamlined and intuitive user interface that enables seamless text input in one language and the selection of another for the desired translation.
 Setting this application apart is its unique capability that allows users to upload text files and execute batch translations into numerous languages, enhancing productivity and user convenience.
 
-Technological Stack:
+##Technological Stack:
 
 -API Utilization: Leveraged the Googletrans API for its robust translation capabilities.
 
@@ -22,7 +22,7 @@ Technological Stack:
 -Computational Performance: Utilization of Python's GPU-accelerated libraries to enhance performance for computationally intensive translation tasks.
 
 
-Key Features:
+##Key Features:
 
 -Versatile Translation: The application enables translations between a wide array of languages, catering to diverse user needs.
 
